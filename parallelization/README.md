@@ -36,7 +36,7 @@ print(FALSE || FALSE)
 | False| False|False|
 
 Let's print out the truth table in R
-```python
+```perl 
 print("TRUE & TRUE")
 print(TRUE & TRUE)
 print("TRUE & FALSE")
