@@ -13,12 +13,12 @@ Specifically, Amdahl's law describes the speed up of a algorithm.
 * **Amdahl's law:** boring equation
 
  ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/e839644b7042451528fa86d608e4ec683acc1173)
+ 
 
  * And a figure to drive it all home! ( depending on the percentage of the task that can be parallelized)
  ![figure](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/AmdahlsLaw.svg/600px-AmdahlsLaw.svg.png)
 
- ***"When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned."***
- -Michael Scott
+ ***"When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned."*** -Michael Scott
 
 
 
