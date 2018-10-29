@@ -1,3 +1,4 @@
+https://github.com/tijeco/bioinformatics_tutorials/
 # Logic
 
 Boolean algebra is at the core of all logic in programming. We are only concerned with  various combinations of ```0```'s and ```1```'s or ```True``` and ```False```
@@ -90,8 +91,8 @@ if (x < 0) {
 } else
    print("Zero")
 
-> a = c(5,7,2,9)
-> ifelse(a %% 2 == 0,"even","odd")
+a = c(5,7,2,9)
+ifelse(a %% 2 == 0,"even","odd")
 ```
 
 # Loops
