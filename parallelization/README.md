@@ -12,8 +12,8 @@ Specifically, Amdahl's law describes the speed up of a algorithm.
 
 * **Amdahl's law:** boring equation
 
- ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/e839644b7042451528fa86d608e4ec683acc1173)
- 
+ ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/4ddfe7ea1f14ac8da03a6eda65459d1f8d85f6b9)
+
 
  * And a figure to drive it all home! ( depending on the percentage of the task that can be parallelized)
  ![figure](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/AmdahlsLaw.svg/600px-AmdahlsLaw.svg.png)
